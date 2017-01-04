@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Immersive
 
 Welcome to Data Science! We are building a global community of lifelong learners who are excited about using data to solve real world problems. 
@@ -69,7 +68,3 @@ Please check out our [contributing guidelines](./contributing.md) for more detai
 
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
 2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
-=======
-# table-of-contents
-Learn about baseline DSI materials and sequence
->>>>>>> d986c61c22664013d34616bb7e315f9dc5937b45
